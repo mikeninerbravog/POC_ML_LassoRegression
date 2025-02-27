@@ -23,8 +23,8 @@ This repository demonstrates how **Lasso Regression** helps in feature selection
 
 ### Step 1: Open the Notebooks in Colab
 Click the links below to open the examples directly in **Google Colab**:
-- [Real Estate Price Prediction](https://colab.research.google.com/github/your-repo/real_estate_lasso.ipynb)
-- [Disease Diagnosis](https://colab.research.google.com/github/your-repo/disease_diagnosis_lasso.ipynb)
+- [Real Estate Price Prediction](https://colab.research.google.com/github/mikeninerbravog/POC_ML_LassoRegression/blob/master/POC_ML_LassoRegression.ipynb)
+- [Disease Diagnosis](https://colab.research.google.com/github/mikeninerbravog/POC_ML_LassoRegression/blob/master/POC_ML_LassoRegression.ipynb)
 
 ### Step 2: Install Dependencies (if needed)
 Google Colab usually comes with the required libraries pre-installed. However, if needed, run:
